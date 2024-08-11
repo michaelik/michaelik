@@ -1,7 +1,7 @@
 # Bienvenue 👋 
 > Follow your bliss and the universe will open doors where there were only walls.
 
-## Who am I?
+### Who am I?
 
 I'm Michael, alias likewise is IK! working under a term I coined **Full-Stack Java/Spring Boot Developer** at [Fincode](https://fincode.co.uk). I am a Result-oriented and technologically astute Software Developer with time-tested experience in developing and analysing code, engineering well-researched, cost-effective solutions, and contributing to the complete product development lifecycle of successfully launched applications. 
 
